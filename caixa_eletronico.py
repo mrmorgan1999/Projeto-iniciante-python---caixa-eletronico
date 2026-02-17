@@ -35,7 +35,7 @@ def senha (senha_user):
             print ("senha correta, prosseguindo....")
             break
 
-senha (2010)            
+senha (1234)            
 
 saldo = 1000
 
